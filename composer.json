@@ -1,0 +1,16 @@
+{
+    "name": "thooh/test",
+    "description": "this is a test",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.11@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thooh",
+            "email": "rol@thooh.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
